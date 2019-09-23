@@ -1,2 +1,2 @@
 # Banco-de-dados-NBA
-Aplicativo de banco de dados em C, contém funções de listar, excluir, adicionar, procurar e alterar informações dos jogadores
+Aplicativo de banco de dados em C. Contém funções de listar, excluir, adicionar, procurar e alterar informações dos jogadores
