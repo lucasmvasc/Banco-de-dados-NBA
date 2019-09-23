@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1556281359 source:c:\users\ricar\dropbox\ifce 2019-i\modeloapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1559563015 source:c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 50 - 03-06-2019\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1559561279 c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 50 - 03-06-2019\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
+1559563015 source:c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 52 - 07-06-2019\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1559561279 c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 52 - 07-06-2019\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
+1560346736 source:e:\trabalho final!!!!\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1560346736 e:\trabalho final!!!!\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
+1560912736 source:f:\trabalho final!!!!\lista nba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+	"estatistica_nba.h"
+	"lista_nba.h"
+
+1560645316 f:\trabalho final!!!!\lista nba\auxiliares.h
+	<ctype.h>
+
+1560829694 f:\trabalho final!!!!\lista nba\estatistica_nba.h
+
+1560831264 f:\trabalho final!!!!\lista nba\lista_nba.h
+
+1560941590 source:e:\trabalho final!!!!\lista nba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+	"estatistica_nba.h"
+	"lista_nba.h"
+
+1560645316 e:\trabalho final!!!!\lista nba\auxiliares.h
+	<ctype.h>
+
+1560829694 e:\trabalho final!!!!\lista nba\estatistica_nba.h
+
+1560831264 e:\trabalho final!!!!\lista nba\lista_nba.h
+
+1560941590 source:e:\semestre 1 ifce\introdução a programação\trabalho final!!!!\lista nba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+	"estatistica_nba.h"
+	"lista_nba.h"
+
+1560645316 e:\semestre 1 ifce\introdução a programação\trabalho final!!!!\lista nba\auxiliares.h
+	<ctype.h>
+
+1560829694 e:\semestre 1 ifce\introdução a programação\trabalho final!!!!\lista nba\estatistica_nba.h
+
+1560831264 e:\semestre 1 ifce\introdução a programação\trabalho final!!!!\lista nba\lista_nba.h
+
